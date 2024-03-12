@@ -1,0 +1,8 @@
+/* Range slider */
+:root {
+  --range-thumb-size: 36px;
+}
+
+.main-color-iqadot {
+  background-color: rgba(0, 150, 136, 1);
+}
